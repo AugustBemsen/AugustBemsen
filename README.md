@@ -1,4 +1,4 @@
-[![Header](https://i.pinimg.com/originals/04/c5/52/04c552a76a4ba91fa0700aa8d707993a.gif "Header")](https://martinheinz.dev/)
+[![Header](https://i.pinimg.com/564x/83/a4/2c/83a42c25bc3e8ce9721e8e62e6667ed6.jpg "Header")](https://martinheinz.dev/)
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Daniel welcome to my wall
 
