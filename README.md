@@ -15,5 +15,5 @@ My name is Daniel Bemsen and I'm a Software Developer.  You can find me on  [![T
 [![August's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=AugustBemsen&show_icons=true&theme=tokyonight)](https://github.com/AugustBemsen)
 
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1]: https://twitter.com/dani_Reptor
