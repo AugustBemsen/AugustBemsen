@@ -4,6 +4,7 @@
 
 My name is Daniel Bemsen and I'm a Software Developer.  You can find me on  [![Twitter][1.1]][1]
 
+[![Software | 100 Days of Code](https://www.software.com/badges/100-days-of-code)](https://www.software.com/100-days-of-code)
 
 ## &#x1f4c8; GitHub Stats
 ![August's github stats](https://github-readme-stats.vercel.app/api?username=AugustBemsen&theme=tokyonight&show_icons=true) </p>
