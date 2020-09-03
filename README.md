@@ -3,7 +3,7 @@
 <br>
 
 ### Language iCode in
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustBemsen&layout=compact)](https://github.com/AugustBemsen/github-readme-stats)
+[![Kingsley's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=AugustBemsen&show_icons=true&theme=tokyonight)](https://github.com/AugustBemsen)
 
 
 ### GitHub Stats
