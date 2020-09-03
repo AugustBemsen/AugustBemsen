@@ -2,10 +2,8 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Daniel welcome to my wall
 
-My name is Daniel Bemsen and I'm a Software Developer.  You can find me on 
+My name is Daniel Bemsen and I'm a Software Developer.  You can find me on  [![Twitter][1.1]][1]
 
-[![Twitter][1.1]][1],  
-.
 
 ## &#x1f4c8; GitHub Stats
 ![August's github stats](https://github-readme-stats.vercel.app/api?username=AugustBemsen&theme=tokyonight&show_icons=true) </p>
