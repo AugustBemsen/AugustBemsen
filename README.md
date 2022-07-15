@@ -9,7 +9,8 @@ My name is Daniel Bemsen and I'm a Software Developer.  You can find me on  [![T
 ## &#x1f4c8; GitHub Stats
 ![August's github stats](https://github-readme-stats.vercel.app/api?username=AugustBemsen&theme=tokyonight&show_icons=true) </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=augustbemsen&hide_border=true)](https://git.io/streak-stats)
+## &#x1f4c8; GitHub Streaks
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=augustbemsen&hide_border=true&background=1A1B27&currStreakNum=C9752A&sideNums=37A89C&sideLabels=37A89C&dates=455F91)](https://git.io/streak-stats)
 
 ### Language iCode in
 [![August's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=AugustBemsen&show_icons=true&theme=tokyonight)](https://github.com/AugustBemsen)
